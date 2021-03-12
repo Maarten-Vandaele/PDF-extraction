@@ -9,3 +9,11 @@ A group project for the Becode course where a number of PDF's where given and a 
 
 ## Presentation
 Please have a look at the presentation added to the repo.
+
+## Technologies used
+
+TIKA
+PDFminer
+TEXTRACT
+JSON
+REGEX
